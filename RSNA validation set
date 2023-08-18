@@ -1,0 +1,1 @@
+We crop the images of RSNA Validation set manually, so this set produce better performance compare to any other automatic method to crop. However, we just publishing the validation set (in fiture training set will be publish too). Here, there images are not rotate to align. Please cite the website if use this dataset. 
